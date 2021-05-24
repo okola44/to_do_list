@@ -1,0 +1,17 @@
+header:hover{
+    text-align: center;
+    color: black;
+    background-color: chocolate;
+    background-color: darkgrey;
+
+
+}
+body{
+    text-align: center;
+    height: 300px;
+    width: 400px;
+    
+}
+#add-to-do{
+    color: darkgray;
+}
